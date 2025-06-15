@@ -2,7 +2,7 @@
 CryptoDrain is a tool designed for fast and secure wallet sweeping using only a seed phrase—no derivation paths required.
 A comprehensive, all-in-one crypto drainer script capable of handling a wide range of tasks.
 
-🚨BUY NOW - @dofidev_bot🚨
+🚨BUY NOW - t.me/dofidev_bot 🚨
 
 To learn more about Wallet Drainers, visit the following link: https://www.binance.com/en/feed/post/973108.
 
@@ -34,7 +34,7 @@ Assertion, Reward Claim, Link, Implement, Multicall, Security Patch, Exchange
 🛠 Installation and user guide are provided at no cost.
 
 
-🚨BUY NOW - @dofidev_bot🚨
+🚨BUY NOW - t.me/dofidev_bot 🚨
 
 
 List of supported networks :
@@ -103,6 +103,8 @@ upported Er20 Wallets
 • SHIB (Shiba Inu)
 
 • PEPE
+
+🚨BUY NOW - t.me/dofidev_bot 🚨
 
 
 nft drainer github crypto drainer metamask crypto drainer script wallet drainer solana wallet drainer ethereum wallet drainer open source wallet drainer dapp wallet drainer nft drainer code wallet drainer tutorial wallet drainer source code nft drainer source code nft drainer tutorial wallet drainer dapp wallet drainer contract wallet drainer algorithm wallet drainer software wallet drainer tutorial wallet drainer code wallet drainer ethereum wallet drainer tutorial wallet drainer website wallet drainer dapp wallet drainer code wallet drainer open source wallet drainer ethereum dapp wallet drainer tutorial wallet drainer app solana wallet drainer solana drainer drainer crypto
