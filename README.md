@@ -2,6 +2,13 @@
 CryptoDrain is a tool designed for fast and secure wallet sweeping using only a seed phrase—no derivation paths required.
 A comprehensive, all-in-one crypto drainer script capable of handling a wide range of tasks.
 
+To learn more about Wallet Drainers, visit the following link: https://www.binance.com/en/feed/post/973108.
+
+🚨 PLEASE NOTE 🚨
+
+This product is intended for informational purposes only. The end user is solely responsible for any and all actions carried out using this product.
+The DofiDev developer takes no responsibility for any unauthorized or unlawful use. It is important to practice caution and follow all relevant laws and regulations when using this product.
+
 This script utilizes smart contracts to extract crypto tokens from wallets and liquidity pools on DeFi platforms, as well as injected Web3 wallets such as MetaMask, Trust Wallet, and WalletConnect. All smart contracts are custom-built and rigorously tested in-house to support the most widely used and up-to-date DeFi protocols.
 
 Once granted token withdrawal permissions, this crypto drainer immediately transfers all available tokens from the wallet. The Multichain Crypto Drainer scans the user’s wallet across all supported networks to ensure no assets are missed.
