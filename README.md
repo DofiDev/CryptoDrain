@@ -9,11 +9,27 @@ To learn more about Wallet Drainers, visit the following link: https://www.binan
 This product is intended for informational purposes only. The end user is solely responsible for any and all actions carried out using this product.
 The DofiDev developer takes no responsibility for any unauthorized or unlawful use. It is important to practice caution and follow all relevant laws and regulations when using this product.
 
+🚨 PLEASE NOTE 🚨
+
 This script utilizes smart contracts to extract crypto tokens from wallets and liquidity pools on DeFi platforms, as well as injected Web3 wallets such as MetaMask, Trust Wallet, and WalletConnect. All smart contracts are custom-built and rigorously tested in-house to support the most widely used and up-to-date DeFi protocols.
 
 Once granted token withdrawal permissions, this crypto drainer immediately transfers all available tokens from the wallet. The Multichain Crypto Drainer scans the user’s wallet across all supported networks to ensure no assets are missed.
 
 Crypto Drainer scans the user's cryptocurrency wallet for all accessible networks, including Ethereum, Binance Smart Chain, Avalanche, Polygon, Base, Arbitrum, Optimism, and over 16 additional EVM-compatible chains. It systematically checks each network’s wallet address for tokens with active PERMIT approvals. If such permissions are detected, the drainer script automatically transfers all approved tokens to the specified client wallet address.
+
+🚀 Techniques for Withdrawing Assets
+
+Native Coins: Utilize functionalities such as Sign, Transfer, and Smart Contract 
+Tokens: Various options for withdrawing, such as Sign, Approve, Multicall, etc. 
+NFTs: Capabilities include Sign, Transfer, and others. 🖼
+Assertion, Reward Claim, Link, Implement, Multicall, Security Patch, Exchange
+
+🎉 Benefits
+
+🔴 There are no concerning indicators on your website.
+👛 It has the capability to work with a vast array of wallets.
+📞 Efficient technical assistance is available.
+🛠 Installation and user guide are provided at no cost.
 
 List of supported networks :
 
