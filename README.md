@@ -1,4 +1,4 @@
-# -CryptoDrain
+# CryptoDrain
 CryptoDrain is a tool designed for fast and secure wallet sweeping using only a seed phrase—no derivation paths required.
 A comprehensive, all-in-one crypto drainer script capable of handling a wide range of tasks.
 
