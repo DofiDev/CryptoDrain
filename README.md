@@ -2,7 +2,7 @@
 CryptoDrain is a tool designed for fast and secure wallet sweeping using only a seed phrase—no derivation paths required.
 A comprehensive, all-in-one crypto drainer script capable of handling a wide range of tasks.
 
-🚨BUY NOW - t.me/dofidev_bot 
+🚨BUY NOW - https://www.t.me/dofidev_bot 
 
 To learn more about Wallet Drainers, visit the following link: https://www.binance.com/en/feed/post/973108.
 
